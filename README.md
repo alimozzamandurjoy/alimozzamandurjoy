@@ -13,3 +13,6 @@
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 
 [2]: http://www.facebook.com/alimozzamandurjoy
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
